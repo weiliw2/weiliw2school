@@ -1,4 +1,4 @@
-# LAB1GEOG495
+# LAB1 GEOG495
 ![webpic](https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQfMEk8-S_e80K7aT5K2Ly7MUo6DPwAegmUA6RXeQj7N19iIghDfsEPTdJHhl4Bunl4XhdaYOAWsIfTKdvoQDdD_k1eEPEvQNDVeLnf72AJJJR4mX9keZAEsKle6r4tAmdjsmVc3bC_0XuVgbktNN.jpg?r=f84)
 
 
