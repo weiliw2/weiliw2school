@@ -19,10 +19,6 @@ One or several paragraphs.654wa
 - [Cyberpunk: Edgerunners](https://www.netflix.com/tudum/articles/cyberpunk-edgerunners-trailer)
 - [American Horror Story](https://www.fxnetworks.com/shows/american-horror-story)
 
-#### See also
-- [Resource 1](url)
-- [Resource 2](url)
-- [Resource 3](url)
 
 #### Podcast list
 1. Morbid
